@@ -1,5 +1,3 @@
- <img align="left" src="https://raw.githubusercontent.com/BradenEverson/triton/master/triton-logo.svg" width="80px" height="80px" alt="triton mascot icon">
-
 # orias 👁️
 
 ### A general purpose computer vision library with embedded systems in mind
