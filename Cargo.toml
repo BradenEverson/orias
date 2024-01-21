@@ -1,0 +1,12 @@
+[package]
+name = "orias"
+authors = ["BradenEverson", "MSOEDroneClub"]
+description = "Computer Vision library with embedded systems support"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[lib]
+no_std = true
+
+[dependencies]
