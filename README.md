@@ -5,8 +5,9 @@
 [![crates.io](https://img.shields.io/crates/v/orias.svg)](https://crates.io/crates/orias)
 [![Documentation](https://docs.rs/orias/badge.svg)](https://docs.rs/orias)
 
-
-<b><font color="red">This crate is in extremely early development, we are currently working on image traits and processing features, please check back!</font></b>
+```diff
+- This crate is in extremely early development, we are currently working on image traits and processing features, please check back!
+```
 
 
 # License
