@@ -6,7 +6,7 @@
 [![Documentation](https://docs.rs/orias/badge.svg)](https://docs.rs/orias)
 
 ```diff
-- This crate is in extremely early development, we are currently working on image traits and processing features, please check back!
+- This crate is in extremely early development, we are currently working on image traits and processing features
 ```
 
 
