@@ -2,6 +2,8 @@
 
 ### A general purpose computer vision library with embedded systems in mind
 
+<h1 style="color:red;">This crate is in extremely early development, we are currently working on image traits and processing features, please check back!</h1>
+
 [![crates.io](https://img.shields.io/crates/v/orias.svg)](https://crates.io/crates/orias)
 [![Documentation](https://docs.rs/orias/badge.svg)](https://docs.rs/orias)
 
