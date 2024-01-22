@@ -21,7 +21,7 @@ impl ops::Sub<Point> for Point {
 }
 
 impl Point {
-    pub fn new(x: f32, y: f32) -> Self {
+    pub const fn new(x: f32, y: f32) -> Self {
         Point {
             x,
             y
